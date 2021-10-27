@@ -7,3 +7,5 @@ The following are some of the git commands commonly used:
 * git add
 * git commit
 * git push
+* git branch 
+* git checkout
